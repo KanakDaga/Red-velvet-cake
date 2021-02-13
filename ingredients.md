@@ -1,0 +1,1 @@
+sugar, crushedGinger, teaPower(TajMahal), milk, water
